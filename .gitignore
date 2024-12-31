@@ -1,0 +1,14 @@
+.DS_Store
+.dart_tool/
+.idea/
+build/
+*.log
+*.iml
+*.ipr
+*.iws
+*.xml
+*.json
+*.md
+*.txt
+*.yaml
+*.yml
